@@ -1,6 +1,6 @@
 # Subvey Surfer(C++ Game)
 <br>
-**# Game Overview:**
+**Game Overview**
 <br>
 "Infinity Runner:
 <br>
