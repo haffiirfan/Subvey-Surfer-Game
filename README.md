@@ -31,3 +31,5 @@ __Technical Implementation__
 
 <br>
                   The game leverages the robustness of C++ and the flexibility of OOP principles. Key OOP concepts such as classes, inheritance, and polymorphism are utilized to structure the game efficiently. Characters, obstacles, and power-ups are represented as objects, facilitating easy modifications and additions. The game's architecture supports scalability, allowing for the introduction of new features and obstacles with minimal changes to the core codebase.
+                  
+https://github.com/user-attachments/assets/b4c06be8-b27f-4729-8068-097867813c93
